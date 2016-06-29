@@ -1,2 +1,2 @@
 # ServerJS
-A simple JavaScript Server
+A series of simple NodeJS Servers
